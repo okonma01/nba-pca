@@ -2,7 +2,7 @@
 
 This project explores NBA player shooting tendencies using Principal Component Analysis (PCA) and clustering techniques. By reducing high-dimensional shooting data into an interpretable 2D space, we uncover patterns in player shot selection and efficiency.
 
-**📌 Live Demo**: [Launch on Binder](https://www.github.com/okonma01/nba-pca)
+**📌 Live Demo**: [Launch on Binder](https://2i2c.mybinder.org/v2/gh/okonma01/nba-pca/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb)
 
 ---
 
